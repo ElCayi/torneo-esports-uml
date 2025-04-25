@@ -51,7 +51,7 @@ Decidí que era apropiado que los jugadores pudieran consultar la información d
 ---
 
 ## Estructura del proyecto
-
+,,,
 torneo-esports-uml/
 ├── diagrams/
 │   ├── casos-uso.png
