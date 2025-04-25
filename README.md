@@ -35,10 +35,10 @@ Las dos primeras son entidades del sistema, y la tercera se encarga de gestionar
 
 ## Justificación del diseño
 
-He intentado seguir una estructura modular dividiendo las clases según su función.  
-Los jugadores están contenidos dentro de los equipos, y el gestor actúa como clase de control.  
-Decidí que era apropiado que los jugadores pudieran consultar la información de equipos y compañeros en el torneo, aunque sin permisos de edición, basándome en mis experiencias personales.
-El README me lo ha pasado a limpio ChatGPT y le ha quedado súper chulo la verdad. 
+- He intentado seguir una estructura modular dividiendo las clases según su función.  
+- Los jugadores están contenidos dentro de los equipos, y el gestor actúa como clase de control.  
+- Decidí que era apropiado que los jugadores pudieran consultar la información de equipos y compañeros en el torneo, aunque sin permisos de edición, basándome en mis experiencias personales.
+- El README me lo ha pasado a limpio ChatGPT y le ha quedado súper chulo la verdad. 
 
 ---
 
